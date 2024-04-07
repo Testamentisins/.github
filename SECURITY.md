@@ -1,3 +1,4 @@
+![1000002370](https://github.com/gradle/.github/assets/166260171/89f3870b-ae58-40ed-93d4-46115a18b4be)
 # Gradle Vulnerability Disclosure Policy
 
 ## Introduction
